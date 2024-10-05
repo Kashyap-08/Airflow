@@ -1,0 +1,10 @@
+/.env
+/airflow_venv
+/dags
+/data
+/docker-compose.yaml
+/Dockerfile
+/logs
+/plugins
+/requirements.txt
+/Tutorial
